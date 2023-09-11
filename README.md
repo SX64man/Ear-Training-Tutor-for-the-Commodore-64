@@ -6,24 +6,24 @@
 *Major, minor, augmented, diminished triads - melodic or harmonic.*  
 *Root, 1st & 2nd inversions (see current bug issue on inversions)*  
 
-**i/o:**
+**i/o:**  
 *Notation display on musical grand staff.*   
 *Note display on screen piano keyboard with color identification.*   
 *Printer function available.*   
 *Midi out to external keyboard/sound module (Passport compatible) available.*   
 *Save session and statistics to external disk drive.*   
 
-**sid information:**
+**sid information:**  
 *musical output is accurate to NTSC note frequencies (PAL not available at this time)* 
 
-**included files:**
+**included files:**  
 *Documentation PDF*   
 *Image screenshots*   
 *Vice configuration documentation*   
 *compiled code (with Blitz!)*   
 *original BASIC code*   
 
-**Program Password:** *"demo"*
+**Program Password:** *"demo"*  
 
 Enjoy and tune up those ears :-)
 ![Screen - augmented](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/ca06f839-98e9-4300-acb9-ac94522e2d62)
