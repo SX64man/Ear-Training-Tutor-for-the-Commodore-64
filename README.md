@@ -7,21 +7,21 @@
 *Root, 1st & 2nd inversions (see current bug issue on inversions)*  
 
 **i/o:**
-*Notation display on musical grand staff.* 
-*Note display on screen piano keyboard with color identification.* 
-*Printer function available.* 
-*Midi out to external keyboard/sound module (Passport compatible) available.* 
-*Save session and statistics to external disk drive.* 
+*Notation display on musical grand staff.*   
+*Note display on screen piano keyboard with color identification.*   
+*Printer function available.*   
+*Midi out to external keyboard/sound module (Passport compatible) available.*   
+*Save session and statistics to external disk drive.*   
 
 **sid information:**
 *musical output is accurate to NTSC note frequencies (PAL not available at this time)* 
 
 **included files:**
-*Documentation PDF* 
-*Image screenshots* 
-*Vice configuration documentation* 
-*compiled code (with Blitz!)* 
-*original BASIC code* 
+*Documentation PDF*   
+*Image screenshots*   
+*Vice configuration documentation*   
+*compiled code (with Blitz!)*   
+*original BASIC code*   
 
 **Program Password:** *"demo"*
 
