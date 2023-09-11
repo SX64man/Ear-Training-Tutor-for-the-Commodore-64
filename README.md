@@ -3,7 +3,7 @@
 
 **Ear Training Tutor for the Commodore 64** is a software program designed to improve your interval and triad musical aural skills. 
 
-**You can test and drill your recognition of: **
+**You can test and drill your recognition of:**
 *all intervals from unison to octave - ascending, descending, or harmonic.*
 *Major, minor, augmented, diminished triads - melodic or harmonic.*
 *Root, 1st & 2nd inversions (see current bug issue on inversions)*
