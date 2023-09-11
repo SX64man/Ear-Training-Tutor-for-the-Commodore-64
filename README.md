@@ -1,4 +1,5 @@
-![Screen - diminished](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/23fc3d88-f5ea-410d-b15f-1442f2c4f322)
+
+![Screen - augmented](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/11214809-13ed-426f-a368-249cf60aa22a)
 
 Ear Training Tutor for the Commodore 64 is a software program designed to improve your interval and triad musical aural skills. 
 
