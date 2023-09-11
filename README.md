@@ -24,5 +24,7 @@ Vice configuration documentation
 compiled code (with (Blitz!)
 Basic code
 
+Program Password: "demo"
+
 Enjoy and tune up those ears :-)
 ![Title Screen](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/02ffddcf-c902-43b3-b854-95e8447ae5aa)
