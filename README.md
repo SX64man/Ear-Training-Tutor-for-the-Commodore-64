@@ -1,6 +1,7 @@
 ## Ear Training Tutor for the Commodore 64
 ![Title Screen](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/21f94e6c-a31b-4374-b4e1-c59f0d5efbf8)
-**Ear Training Tutor for the Commodore 64** is a software program designed to improve your interval and triad musical aural skills.   
+**Ear Training Tutor for the Commodore 64** is a software program designed to improve your interval and triad musical aural skills.  
+**Currently the program only works on NTSC Commodore 64s - needs to be ported to PAL** 
 <br>**You can test and drill your recognition of:**  
 *all intervals from unison to octave - ascending, descending, or harmonic.*  
 *Major, minor, augmented, diminished triads - melodic or harmonic.*  
