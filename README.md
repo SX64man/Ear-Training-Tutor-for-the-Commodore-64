@@ -12,7 +12,7 @@
 *Notation display on musical grand staff.*   
 *Note display on screen piano keyboard with color identification.*   
 *Printer function available.*   
-*Midi out to external keyboard/sound module (Passport compatible) available.*   
+*MIDI out to external keyboard/sound module is automatic (Passport compatible) .*   
 *Save session and statistics to external disk drive.*   
 
 **sid information:**  
