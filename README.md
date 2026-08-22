@@ -1,11 +1,10 @@
 ## Ear Training Tutor for the Commodore 64  (update 08/21/2026)
-Major update - now works on PAL machines as well as NTSC
-Triad inversions, printer and disk access issues resolved
-copy protection removed
-code optimization
-RePlay feature added to results screen
-Exam results records retrieve & view improved
-VICE tested
+Major update - now works on PAL & NTSC machines (A440),
+Triad inversions, printer and disk access issues resolved,
+copy protection removed, code optimization,
+RePlay Pitches feature added to results screen,
+Exam results records retrieve & view improved,
+VICE tested, improved load time.
 
 
 ## Ear Training Tutor for the Commodore 64  (update 09/25/2023)
