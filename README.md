@@ -5,7 +5,7 @@ copy protection removed, code optimization,
 RePlay Pitches feature added to results screen,
 Exam results records retrieve & view improved,
 VICE tested, improved load time.
-<img width="4032" height="3024" alt="Title Screen" src="https://github.com/user-attachments/assets/6b1adae3-669e-47f4-b345-3b5d28aea5f4" />
+
 <img width="889" height="672" alt="SplashScreen" src="https://github.com/user-attachments/assets/2c01f9ba-e7f6-46ee-8180-30544b9c9372" />
 <img width="870" height="749" alt="ResultsScreen" src="https://github.com/user-attachments/assets/c7bc7411-91fc-415b-9d69-94bbfbc1cfcc" />
 <img width="887" height="675" alt="MainMenu" src="https://github.com/user-attachments/assets/49dc5dc1-feed-4cfe-8f91-65e2944c7a81" />
@@ -37,4 +37,5 @@ VICE tested, improved load time.
 
 Enjoy and tune up those ears :-)
 ![Screen - augmented](https://github.com/SX64man/Ear-Training-Tutor-for-the-Commodore-64/assets/144634808/ca06f839-98e9-4300-acb9-ac94522e2d62)
+<img width="4032" height="3024" alt="Title Screen" src="https://github.com/user-attachments/assets/6b1adae3-669e-47f4-b345-3b5d28aea5f4" />
 
