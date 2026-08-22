@@ -24,6 +24,7 @@ VICE tested, improved load time.
 *Notation display on musical grand staff.*   
 *Note display on screen piano keyboard with color identification.*   
 *NEW: Printer function available - RESOLVED v2026*
+
 *MIDI out to external keyboard/sound module is automatic (Passport compatible)*   
 *Save session and statistics to external disk drive - RESOLVED 2026*   
 
