@@ -10,20 +10,22 @@ VICE tested, improved load time.
 <img width="870" height="749" alt="ResultsScreen" src="https://github.com/user-attachments/assets/c7bc7411-91fc-415b-9d69-94bbfbc1cfcc" />
 <img width="887" height="675" alt="MainMenu" src="https://github.com/user-attachments/assets/49dc5dc1-feed-4cfe-8f91-65e2944c7a81" />
 
-**Ear Training Tutor for the Commodore 64** is a software program designed to improve your interval and triad musical aural skills.*
+**Ear Training Tutor for the Commodore 64** is a software program designed to improve your interval and triad musical aural skills.
 
 **Works on NTSC & PAL Commodore 64s**  
 **sid information:**  
-*musical pitch output is accurate to NTSC & PAL at A440 standard note frequencies - RESOLVED v2026*
-*Fast loader/JiffyDos recommended due to long program load times.* 
-*(hangs on disk load on PAL systems (some systems may work) - RESOLVED v2026*
+*NEW: musical pitch output is accurate to NTSC & PAL at A440 standard note frequencies*
+*issue: (musical pitch for PAL is lower frequency) - RESOLVED v2026*
+
+*Fast loader/JiffyDos recommended due to long program load times* 
+*issue: (hangs on disk load on PAL systems - some systems may work) - RESOLVED v2026*
 
 **i/o:**  
 *Notation display on musical grand staff.*   
 *Note display on screen piano keyboard with color identification.*   
-*Printer function available - RESOLVED v2026*
-*MIDI out to external keyboard/sound module is automatic (Passport compatible) .*   
-*Save session and statistics to external disk drive.*   
+*NEW: Printer function available - RESOLVED v2026*
+*MIDI out to external keyboard/sound module is automatic (Passport compatible)*   
+*Save session and statistics to external disk drive - RESOLVED 2026*   
 
 **included files:**  
 *Documentation PDF*   
